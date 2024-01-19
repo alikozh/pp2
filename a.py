@@ -1,3 +1,2 @@
-a = 9
-b = 3.1
-print (a+b)
+str = "hello"
+print (str)
