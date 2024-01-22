@@ -1,2 +1,2 @@
-a = str(input())
-print(a + "tyff")
+if 5 > 2:
+    print("YES")
