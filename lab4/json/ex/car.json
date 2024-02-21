@@ -1,0 +1,17 @@
+[
+    {
+        "make": "subaru",
+        "model": "impreza",
+        "year": 2000
+    },
+    {
+        "make": "Audi",
+        "model": "Quattro",
+        "year": 1982
+    },
+    {
+        "make": "Audi",
+        "model": "A8",
+        "year": 2012
+    }
+]
