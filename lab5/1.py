@@ -10,3 +10,6 @@ def match(pattern):
     return matches
 
 print(match(pattern1))
+
+text = input()
+print(re.findall(r"ab*", text))

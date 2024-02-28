@@ -2,4 +2,4 @@ import re
 
 text = input()
 
-print(re.findall(r"[A-Z][a-z]+", text))
+print(re.split(r"[A-Z]", text))
